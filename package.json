@@ -1,5 +1,5 @@
 {
-  "name": "companyproject",
+  "name": "same",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A simple Warehouse Management System (WMS) web application built with React and Redux, allowing you to search and filter warehouse data.",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
